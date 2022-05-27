@@ -4,9 +4,9 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['56977774748', 'creador', true],
-  ['447441419651'],
-  ['50495745934']
+  ['5219531068159', 'creador', true],
+  ['5219531627349'],
+  ['5219994879204']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
